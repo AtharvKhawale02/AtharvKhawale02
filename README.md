@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvkhawale)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvKhawale02)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atharvkhawale.me/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-atharvkhawaleofficial@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvkhawaleofficial@gmail.com)
 
 </div>
 
@@ -17,32 +17,21 @@
 
 ## 🚀 About Me
 
-```python
-class AtharvKhawale:
-    def __init__(self):
-        self.name = "Atharv Khawale"
-        self.role = "Data Science Student & AI Enthusiast"
-        self.education = "B.E. in AI & Data Science (2022-2026)"
-        self.university = "P.R. Pote Patil College of Engineering, Amravati"
-        self.location = "Amravati, Maharashtra, India"
-        self.passion = ["Machine Learning", "Data Analytics", "Web Development"]
-        
-    def current_focus(self):
-        return [
-            "Building scalable ML solutions",
-            "Developing predictive analytics platforms",
-            "Contributing to open-source projects",
-            "Seeking SDE opportunities"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect and build something amazing together!")
+I'm a passionate **Data Science Student** and **AI Enthusiast** currently pursuing my B.E. in AI & Data Science at P.R. Pote Patil College of Engineering, Amravati (2022-2026). Based in Amravati, Maharashtra, India, I'm dedicated to leveraging the power of machine learning and data analytics to solve real-world problems.
 
-me = AtharvKhawale()
-me.say_hi()
-```
+### 🎯 What I'm Currently Working On:
+- 🔧 Building scalable ML solutions for predictive analytics
+- 📊 Developing data-driven platforms for various industries
+- 🌟 Contributing to open-source projects in AI/ML domain
+- 💼 Actively seeking SDE opportunities to apply my skills
 
----
+### 💡 My Passion Areas:
+- **Machine Learning & AI**: Creating intelligent systems that make a difference
+- **Data Analytics**: Transforming raw data into actionable insights  
+- **Web Development**: Building full-stack applications with modern technologies
+- **Problem Solving**: Tackling complex challenges with innovative solutions
+
+
 
 ## 💻 Tech Stack
 
@@ -78,16 +67,16 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvKhawale02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvKhawale02&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvKhawale02&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvKhawale02&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -97,7 +86,7 @@ me.say_hi()
 <div align="center">
 
 ### 🔮 Student Performance Prediction System
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername/student-performance-prediction)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvKhawale02/student-performance-prediction)
 [![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 **Tech Stack:** `Python` `Django` `Scikit-learn` `SQLite` `Chart.js`
@@ -110,7 +99,7 @@ me.say_hi()
 ---
 
 ### 📄 Report Management System
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername/report-management-system)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvKhawale02/report-management-system)
 
 **Tech Stack:** `Django` `Tailwind CSS` `SQLite`
 
@@ -122,7 +111,7 @@ me.say_hi()
 ---
 
 ### 🌾 AgriPredictAI
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername/agri-predict-ai)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvKhawale02/agri-predict-ai)
 [![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=streamlit&logoColor=white)](#)
 
 **Tech Stack:** `Streamlit` `Python` `Scikit-learn` `Pandas` `Matplotlib`
@@ -220,10 +209,10 @@ Project Leadership     █████████████████      
 🚀 **Always interested in learning new technologies**  
 🤝 **Happy to mentor fellow students and developers**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-khawale)
-[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvkhawale)
+[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvkhawaleofficial@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AtharvKhawale02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
